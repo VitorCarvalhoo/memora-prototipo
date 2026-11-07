@@ -1,3 +1,7 @@
 :root {
-    
+    --bg-default: #f5f5f5;
+    --bg-dark-mode: #1e1e1e;
+
+    --text-color-default: #000000;
+    --text-color-dark-mode: #ffffff;
 }
